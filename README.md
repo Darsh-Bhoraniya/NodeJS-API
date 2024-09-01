@@ -6,11 +6,6 @@ This repository contains a Node.js API that implements basic CRUD (Create, Read,
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
